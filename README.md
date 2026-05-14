@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep6908&label=Profile%20views&color=0e75b6&style=flat" alt="deep6908" /> </p>
 
-- 🔭 I’m currently working on [a Self-Healing-Backend-System](https://github.com/Deep6908/Groovy-Bugs-Ecommerce-website)
-
 - 🌱 I’m currently learning **Next.js and Docker**
 
 - 💬 Ask me about **absolutely nothing!**
