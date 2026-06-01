@@ -37,5 +37,3 @@
 <a href="https://auth.geeksforgeeks.org/user/deeptangshu758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep6908&show_icons=true&locale=en&layout=compact" alt="deep6908" /></p>
-
